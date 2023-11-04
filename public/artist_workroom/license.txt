@@ -1,0 +1,11 @@
+Model Information:
+* title:	Artist workroom
+* source:	https://sketchfab.com/3d-models/artist-workroom-e0c52b6adf1245f2b36f5f49cddb56b9
+* author:	Animateria (https://sketchfab.com/Animateria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Artist workroom" (https://sketchfab.com/3d-models/artist-workroom-e0c52b6adf1245f2b36f5f49cddb56b9) by Animateria (https://sketchfab.com/Animateria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
